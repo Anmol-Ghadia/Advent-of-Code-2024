@@ -1,6 +1,6 @@
 # [Advent of Code 2024](https://adventofcode.com/2024/about)
 
-Welcome to my Advent of Code solutions repository! This repo contains my solutions to the puzzles from Advent of Code, which is an annual event where programmers around the world solve daily programming challenges throughout December. 
+A repository containing my solutions to the Advent of Code programming challenges, featuring code for each day's puzzle.
 
 ![advent calendar](https://media.giphy.com/media/M9TuFdVO82a0RCtjel/giphy.gif)
 
